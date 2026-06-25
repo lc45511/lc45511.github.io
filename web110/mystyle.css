@@ -5,11 +5,11 @@ body {
 h1 {
   color: purple;
   font-family: verdana;
-  font-size: 120%;
+  font-size: 75%;
 }
 
 p {
   color: magenta;
   font-family: courier;
-  font-size: 100%;
+  font-size: 50%;
 }
