@@ -1,15 +1,15 @@
 body {
-  background-color: "#ECBAF7";
+  background-color: "#F1D5F7";
 }
 
 h1 {
   color: purple;
   font-family: verdana;
-  font-size: 75%;
+  font-size: 100%;
 }
 
 p {
   color: magenta;
   font-family: courier;
-  font-size: 50%;
+  font-size: 100%;
 }
