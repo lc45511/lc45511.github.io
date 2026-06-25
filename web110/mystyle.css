@@ -3,13 +3,13 @@ body {
 }
 
 h1 {
-  color: DarkOrchid;
+  color: Indigo;
   font-family: verdana;
   font-size: 125%;
 }
 
 p {
-  color: MediumOrchid;
+  color: DarkMagenta;
   font-family: verdana;
   font-size: 100%;
 }
