@@ -1,8 +1,15 @@
 body {
-  background-color: lightblue;
+  background-color: lightpurple;
 }
 
 h1 {
-  color: navy;
-  margin-left: 20px;
+  color: purple;
+  font-family: verdana;
+  font-size: 300%;
+}
+
+p {
+  color: magenta;
+  font-family: courier;
+  font-size: 160%;
 }
